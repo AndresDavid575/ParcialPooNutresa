@@ -8,7 +8,7 @@ public class Verdura extends Ingrediente {
 
     /** La mazorca, el plátano y la cebolla se cocinan 30 minutos. */
     @Override
-    public int minutosDeCoccion() {
+    public int minutosCoccion() {
         return 30;
     }
 
